@@ -1,4 +1,4 @@
-# community-detection
+# Community-detection
 
 In this section we will discover and implement 4 methods for comunity detection in social networks:
   * Louvain: an algorithm that optimizes the modularity function.
